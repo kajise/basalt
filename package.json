@@ -1,0 +1,20 @@
+{
+  "name": "lotus",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r \t<img width=\"144\" src=\"https://raw.githubusercontent.com/kajise/lotus/assets/kalpalata.png\" alt=\"Lotus logo\">\r     \t<h1>lotus</h1> \r \tAnother interesting Lavalink client for Node.JS, made in TypeScript.\r \t<br/><br/>\r \t<img alt=\"GitHub release (latest by date)\" src=\"https://img.shields.io/github/v/release/kajise/lotus?logo=typescript&style=for-the-badge\">\r \t<img alt=\"GitHub last commit\" src=\"https://img.shields.io/github/last-commit/kajise/lotus?style=for-the-badge\">\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajise/lotus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajise/lotus/issues"
+  },
+  "homepage": "https://github.com/kajise/lotus#readme"
+}
