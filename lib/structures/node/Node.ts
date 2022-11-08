@@ -83,7 +83,7 @@ export class Node {
 
 	/**
 	 * Sends queried data to the node. Returns a boolean if request is successfully sent.
-	 * @param data 
+	 * @param data
 	 */
 	public send(data: unknown): Promise<boolean> {
 		return new Promise((resolve, reject) => {
