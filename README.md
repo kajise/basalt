@@ -23,5 +23,4 @@ Project is a bit fresh lately, stay tuned for the next update.
 		- [ ] [Volcano](https://github.com/AmandaDiscord/Volcano) support for opcode "ffmpeg". | [0%]
 	- [ ] Controls (e.g: play, pause, resume, stop, seek) | [0%]
 - [ ] Queue
-	- [ ] 
 - [ ] Plugin support
